@@ -1,0 +1,6 @@
+_ReSharper.TDDKata1
+*.suo
+*.user
+TDDKata1/obj
+TDDKata1/bin
+gitcommands.txt
